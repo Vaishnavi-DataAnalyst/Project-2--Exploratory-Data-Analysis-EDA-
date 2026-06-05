@@ -1,4 +1,4 @@
-# Project-2--Exploratory-Data-Analysis-EDA-
+# Project-2--Exploratory-Data-Analysis-EDA
 
 📌 Project Overview
 
